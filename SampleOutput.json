@@ -1,0 +1,59 @@
+
+{
+    "status": "ok",
+    "totalResults": 5279,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+                },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "World Cup 2022: How football fever is gripping cricket-crazy India",
+            "description": "Fans are spending a fortune to travel to Doha to watch games and putting up cut-outs of players at home.",
+            "url": "https://www.bbc.co.uk/news/world-asia-india-63645416",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7433/production/_127674792_mediaitem127674790.jpg",
+            "publishedAt": "2022-11-19T01:11:13Z",
+            "content": "This week, Hashir Ali and 11 of his friends will make a long trip - from Kozhikode city in the southern state of Kerala to Doha, the capital of Qatar. \r\nMr Ali, 55, a football-crazy civil engineer, a… [+5042 chars]"
+            },
+            {
+            "source": {
+            "id": "reuters",
+            "name": "Reuters"
+            },
+            "author": null,
+            "title": "England name Jon Lewis as women's team head coach - Reuters.com",
+            "description": "England named Jon Lewis as the new head coach of their women's cricket team on Friday.",
+            "url": "https://www.reuters.com/lifestyle/sports/england-name-jon-lewis-womens-team-head-coach-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-18T16:43:00Z",
+            "content": "Nov 18 (Reuters) - England named Jon Lewis as the new head coach of their women's cricket team on Friday.\r\nThe 47-year-old former England men's seamer will replace Lisa Keightley, who left the positi… [+506 chars]"
+            },
+            {
+            "source": {
+            "id": null,
+            "name": "The Guardian"
+            },
+            "author": "Tanya Aldred",
+            "title": "The Spin | Travis Basevi: the Statsguru visionary who transformed cricket",
+            "description": "The man behind Cricinfo’s search engine, who has died aged 47, was a one-off who paved the way for today’s data-driven gameTravis Basevi wasn’t the kind of man who sought the limelight. He was happy to just do his thing. And that thing was groundbreaking.Base…",
+            "url": "https://www.theguardian.com/sport/2022/nov/02/travis-bavesi-the-statsguru-visionary-who-transformed-cricket-spin",
+            "urlToImage": "https://i.guim.co.uk/img/media/46500bea40f5b97277840d124b423880251be282/398_733_3077_1846/master/3077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d2f81da0b52aa4ecefc76c441fde9a0",
+            "publishedAt": "2022-11-02T11:23:30Z",
+            "content": "Travis Basevi wasnt the kind of man who sought the limelight. He was happy to just do his thing. And that thing was groundbreaking.\r\nBasevi, who died last month at the tragically young age of 47, lea… [+5882 chars]"
+            },
+            {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": null,
+            "title": "T20 World Cup: South Africa-Zimbabwe rained off in strange fashion",
+            "description": "South Africa and Zimbabwe's opening Super 12s game at the T20 World Cup is finally abandoned because of rain in a strange conclusion.",
+            "url": "https://www.bbc.co.uk/sport/cricket/63371503",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/EB0B/production/_127317106_gettyimages-1244192591.jpg",
+            "publishedAt": "2022-10-24T12:45:35Z",
+            "content": "Sean Williams was run out after colliding with Wesley Madhevere in the middle of the pitch\r\n<table>\r\n<tr><td>ICC Men's T20 World Cup Group 2, Hobart</td></tr><tr><td>Zimbabwe 79-5 (9 overs): Madhever… [+3087 chars]"
+            }
+    ]
+    }
